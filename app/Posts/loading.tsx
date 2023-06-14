@@ -2,4 +2,4 @@ const loading = () => {
     //return <LoadingSkeleton/>
 }
 
-export default loading;
+export default loading; 
